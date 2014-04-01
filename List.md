@@ -99,3 +99,4 @@ The list
 - Marc Vertes (Meiosys, LXC precursor, Sigfox)
 - Sylvain Wallez (Apache Foundation, Anyware Technologies, Joost, Goojet, Scoop.it, Sigfox)
 - Sylvain Zimmer (Jamendo, dotConferences)
+- Antoine Laureau (ITekia)
